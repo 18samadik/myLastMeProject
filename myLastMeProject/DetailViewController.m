@@ -33,6 +33,7 @@
         self.stickBrandLabel.text = [self.detailItem stickBrand];
         self.stickNameLabel.text = [self.detailItem stickName];
         self.stickImageView.image = [self.detailItem stickImage];
+        self.url = [self.detailItem stickWebView];
         // self.stickWebView.text = [self.detailItem stickWebView];
     }
 }
@@ -52,7 +53,7 @@
 
 - (void)prepareForSegue:(UIStoryboardSegue *)segue sender:(id)sender {
     if ([[segue identifier] isEqualToString:@"showWebsite"]) {
-        
+        [[segue destinationViewController] setStickWebVC:self.url];
     }
 }
 @end

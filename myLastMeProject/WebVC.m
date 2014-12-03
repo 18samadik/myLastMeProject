@@ -15,9 +15,9 @@
 
 #pragma mark - Managing the webView
 
-- (void)setStickWebVC:(NSString *)stickWebVC:(NSString *)newStickWebVC {
+- (void)setStickWebVC:(NSString *)stickWebVC {
     if (_stickWebVC != stickWebVC) {
-        _stickWebVC = newStickWebVC;
+        _stickWebVC = stickWebVC;
         
         // Update the view.
         [self configureView];
@@ -27,23 +27,23 @@
 
 - (void)configureView {
     //Update the user interface for the detail item.
-    if (self.stickWebVC)
-        self.stickWebVC; }
-          /*  NSURL *url = [[NSURL alloc] initWithString:self.stickWebVC];
+    if (self.stickWebVC) {
+        NSURL *url = [[NSURL alloc] initWithString:self.stickWebVC];
         NSURLRequest *request = [[NSURLRequest alloc] initWithURL:url];
         [self.myWebView loadRequest:request];
-         self.stickWebView.text = [self.detailItem stickWebView]; */
+    }
+}
 
 //where i am trying to fix my website mistake
 - (void)loadRequest:(NSURLRequest *)request {
     [super viewDidLoad];
 
-   [self configureView];
+    [self configureView];
     [super viewDidLoad];
-    NSURL *url = [[NSURL alloc] initWithString:@"http://www.laxmonkey.com"];}
+    NSURL *url = [[NSURL alloc] initWithString:@"http://www.laxmonkey.com"];
     //NSURLRequest *request = [[NSURLRequest alloc] initWithURL:url];
-   // [self.stickWebVC loadRequest:request];
-
+    //[self.stickWebVC loadRequest:request];
+}
 
 @end
 
