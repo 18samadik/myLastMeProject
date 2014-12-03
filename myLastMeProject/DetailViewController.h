@@ -15,6 +15,6 @@
 @property (weak, nonatomic) IBOutlet UILabel *stickBrandLabel;
 @property (strong, nonatomic) IBOutlet UILabel *stickNameLabel;
 @property (strong, nonatomic) IBOutlet UIImageView *stickImageView;
-@property (weak, nonatomic) IBOutlet UILabel *detail 
+@property (weak, nonatomic) IBOutlet UILabel *detail;
 
 @end

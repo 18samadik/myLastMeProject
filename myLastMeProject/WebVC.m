@@ -37,22 +37,14 @@
 //where i am trying to fix my website mistake
 - (void)loadRequest:(NSURLRequest *)request {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+  
    [self configureView];
     [super viewDidLoad];
     NSURL *url = [[NSURL alloc] initWithString:@"http://www.laxmonkey.com"];
-    NSURLRequest *request = [[NSURLRequest alloc] initWithURL:url];
-    [self.stickWebVC loadRequest:request];
-    
+    //NSURLRequest *request = [[NSURLRequest alloc] initWithURL:url];
+   // [self.stickWebVC loadRequest:request];
     
 }
-    
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
-}
-
-
 
 @end
 
