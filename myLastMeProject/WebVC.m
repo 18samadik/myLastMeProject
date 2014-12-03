@@ -37,14 +37,13 @@
 //where i am trying to fix my website mistake
 - (void)loadRequest:(NSURLRequest *)request {
     [super viewDidLoad];
-  
+
    [self configureView];
     [super viewDidLoad];
-    NSURL *url = [[NSURL alloc] initWithString:@"http://www.laxmonkey.com"];
+    NSURL *url = [[NSURL alloc] initWithString:@"http://www.laxmonkey.com"];}
     //NSURLRequest *request = [[NSURLRequest alloc] initWithURL:url];
    // [self.stickWebVC loadRequest:request];
-    
-}
+
 
 @end
 
