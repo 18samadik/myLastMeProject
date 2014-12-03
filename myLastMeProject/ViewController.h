@@ -7,9 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "STX.h"
 
 @interface ViewController : UIViewController
 
+@property (strong, nonatomic) NSMutableArray *sticks;
 
 @end
 

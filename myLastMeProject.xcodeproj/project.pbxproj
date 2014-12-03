@@ -14,6 +14,32 @@
 		3F1F408919F5C3B80098ED03 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F1F408819F5C3B80098ED03 /* Images.xcassets */; };
 		3F1F408C19F5C3B80098ED03 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3F1F408A19F5C3B80098ED03 /* LaunchScreen.xib */; };
 		3F1F409819F5C3B90098ED03 /* myLastMeProjectTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F1F409719F5C3B90098ED03 /* myLastMeProjectTests.m */; };
+		3F2CD6FE1A0C3C9A00936324 /* LSF-NIKE-LAKOTA-BKYELLOW-2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2CD6FD1A0C3C9A00936324 /* LSF-NIKE-LAKOTA-BKYELLOW-2.jpg */; };
+		3F2CD7001A0C3CB400936324 /* maxresdefault.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2CD6FF1A0C3CB400936324 /* maxresdefault.jpg */; };
+		3F2CD7021A0C45D100936324 /* url.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2CD7011A0C45D100936324 /* url.jpg */; };
+		3F2CD7041A0C467E00936324 /* 1212.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3F2CD7031A0C467E00936324 /* 1212.gif */; };
+		3F2CD7061A0C470E00936324 /* big_23340_front.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2CD7051A0C470E00936324 /* big_23340_front.jpg */; };
+		3F2CD7081A0C472F00936324 /* big_23282_front.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2CD7071A0C472F00936324 /* big_23282_front.jpg */; };
+		3F2CD70A1A0C47B500936324 /* stx15_stallion300_shaft_main.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2CD7091A0C47B500936324 /* stx15_stallion300_shaft_main.jpg */; };
+		3F2CD70C1A0C481300936324 /* images.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2CD70B1A0C481300936324 /* images.jpg */; };
+		3F2CD70E1A0C485E00936324 /* GreenFront-500x500.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2CD70D1A0C485E00936324 /* GreenFront-500x500.jpg */; };
+		3F2CD7101A0C48DC00936324 /* pDSP1-10878513p275w.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2CD70F1A0C48DC00936324 /* pDSP1-10878513p275w.jpg */; };
+		3F2CD7141A0C499400936324 /* big_26797_front.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2CD7131A0C499400936324 /* big_26797_front.jpg */; };
+		3F2CD7161A0C49D500936324 /* usa_handle_hammer500-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F2CD7151A0C49D500936324 /* usa_handle_hammer500-2.png */; };
+		3F2CD7181A0C4A0400936324 /* header.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2CD7171A0C4A0400936324 /* header.jpg */; };
+		3F2CD71A1A0C4A7B00936324 /* nike-legacy-unstrung-lacrosse-head-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3F2CD7191A0C4A7B00936324 /* nike-legacy-unstrung-lacrosse-head-1.jpg */; };
+		3F93196A1A11894800DFC8F6 /* WebVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 3F9319691A11894800DFC8F6 /* WebVC.m */; };
+		3FC347CA1A2E6403006056CD /* Unknown.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3FC347C91A2E6403006056CD /* Unknown.jpeg */; };
+		3FC347CC1A2E6470006056CD /* maverik-optik-u-lacrosse-head-18.gif.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 3FC347CB1A2E6470006056CD /* maverik-optik-u-lacrosse-head-18.gif.jpeg */; };
+		3FC347CE1A2E650D006056CD /* warrior-lacrosse-head-revo-3-royal_3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FC347CD1A2E650D006056CD /* warrior-lacrosse-head-revo-3-royal_3.jpg */; };
+		3FC347D01A2E65D1006056CD /* full_21621_front.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FC347CF1A2E65D1006056CD /* full_21621_front.jpg */; };
+		3FC347D21A2E66B8006056CD /* full_13622_front.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FC347D11A2E66B8006056CD /* full_13622_front.jpg */; };
+		3FCC23B919F9ADA900682302 /* stx-k18-lacrosse-head-white-front_2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FCC23B819F9ADA900682302 /* stx-k18-lacrosse-head-white-front_2.png */; };
+		3FCC23BB19F9ADBB00682302 /* warrior-rabil-x-lacrosse-head-1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3FCC23BA19F9ADBB00682302 /* warrior-rabil-x-lacrosse-head-1.jpg */; };
+		3FCC23BD19F9AF2600682302 /* LHU-WAR-EX3UNX-2.png in Resources */ = {isa = PBXBuildFile; fileRef = 3FCC23BC19F9AF2600682302 /* LHU-WAR-EX3UNX-2.png */; };
+		3FCC23C119F9B16100682302 /* STXViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FCC23BF19F9B16100682302 /* STXViewController.m */; };
+		3FCC23C519F9B2CE00682302 /* STX.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FCC23C419F9B2CE00682302 /* STX.m */; };
+		B0285A011A006F8E0020D6F6 /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B0285A001A006F8E0020D6F6 /* DetailViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +66,36 @@
 		3F1F409119F5C3B90098ED03 /* myLastMeProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = myLastMeProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F1F409619F5C3B90098ED03 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3F1F409719F5C3B90098ED03 /* myLastMeProjectTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = myLastMeProjectTests.m; sourceTree = "<group>"; };
+		3F2CD6FD1A0C3C9A00936324 /* LSF-NIKE-LAKOTA-BKYELLOW-2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "LSF-NIKE-LAKOTA-BKYELLOW-2.jpg"; sourceTree = "<group>"; };
+		3F2CD6FF1A0C3CB400936324 /* maxresdefault.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = maxresdefault.jpg; sourceTree = "<group>"; };
+		3F2CD7011A0C45D100936324 /* url.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = url.jpg; sourceTree = "<group>"; };
+		3F2CD7031A0C467E00936324 /* 1212.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 1212.gif; sourceTree = "<group>"; };
+		3F2CD7051A0C470E00936324 /* big_23340_front.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = big_23340_front.jpg; sourceTree = "<group>"; };
+		3F2CD7071A0C472F00936324 /* big_23282_front.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = big_23282_front.jpg; path = myLastMeProject/big_23282_front.jpg; sourceTree = "<group>"; };
+		3F2CD7091A0C47B500936324 /* stx15_stallion300_shaft_main.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = stx15_stallion300_shaft_main.jpg; path = myLastMeProject/stx15_stallion300_shaft_main.jpg; sourceTree = "<group>"; };
+		3F2CD70B1A0C481300936324 /* images.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = images.jpg; sourceTree = "<group>"; };
+		3F2CD70D1A0C485E00936324 /* GreenFront-500x500.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "GreenFront-500x500.jpg"; sourceTree = "<group>"; };
+		3F2CD70F1A0C48DC00936324 /* pDSP1-10878513p275w.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "pDSP1-10878513p275w.jpg"; path = "myLastMeProject/pDSP1-10878513p275w.jpg"; sourceTree = "<group>"; };
+		3F2CD7131A0C499400936324 /* big_26797_front.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = big_26797_front.jpg; sourceTree = "<group>"; };
+		3F2CD7151A0C49D500936324 /* usa_handle_hammer500-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "usa_handle_hammer500-2.png"; sourceTree = "<group>"; };
+		3F2CD7171A0C4A0400936324 /* header.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = header.jpg; path = myLastMeProject/header.jpg; sourceTree = "<group>"; };
+		3F2CD7191A0C4A7B00936324 /* nike-legacy-unstrung-lacrosse-head-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "nike-legacy-unstrung-lacrosse-head-1.jpg"; sourceTree = "<group>"; };
+		3F9319681A11894800DFC8F6 /* WebVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebVC.h; sourceTree = "<group>"; };
+		3F9319691A11894800DFC8F6 /* WebVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebVC.m; sourceTree = "<group>"; };
+		3FC347C91A2E6403006056CD /* Unknown.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Unknown.jpeg; sourceTree = "<group>"; };
+		3FC347CB1A2E6470006056CD /* maverik-optik-u-lacrosse-head-18.gif.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "maverik-optik-u-lacrosse-head-18.gif.jpeg"; sourceTree = "<group>"; };
+		3FC347CD1A2E650D006056CD /* warrior-lacrosse-head-revo-3-royal_3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "warrior-lacrosse-head-revo-3-royal_3.jpg"; sourceTree = "<group>"; };
+		3FC347CF1A2E65D1006056CD /* full_21621_front.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = full_21621_front.jpg; sourceTree = "<group>"; };
+		3FC347D11A2E66B8006056CD /* full_13622_front.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = full_13622_front.jpg; sourceTree = "<group>"; };
+		3FCC23B819F9ADA900682302 /* stx-k18-lacrosse-head-white-front_2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "stx-k18-lacrosse-head-white-front_2.png"; path = "myLastMeProject/stx-k18-lacrosse-head-white-front_2.png"; sourceTree = "<group>"; };
+		3FCC23BA19F9ADBB00682302 /* warrior-rabil-x-lacrosse-head-1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "warrior-rabil-x-lacrosse-head-1.jpg"; path = "myLastMeProject/warrior-rabil-x-lacrosse-head-1.jpg"; sourceTree = "<group>"; };
+		3FCC23BC19F9AF2600682302 /* LHU-WAR-EX3UNX-2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "LHU-WAR-EX3UNX-2.png"; path = "myLastMeProject/LHU-WAR-EX3UNX-2.png"; sourceTree = "<group>"; };
+		3FCC23BE19F9B16100682302 /* STXViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STXViewController.h; sourceTree = "<group>"; };
+		3FCC23BF19F9B16100682302 /* STXViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STXViewController.m; sourceTree = "<group>"; };
+		3FCC23C319F9B2CE00682302 /* STX.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = STX.h; sourceTree = "<group>"; };
+		3FCC23C419F9B2CE00682302 /* STX.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = STX.m; sourceTree = "<group>"; };
+		B02859FF1A006F8E0020D6F6 /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		B0285A001A006F8E0020D6F6 /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +122,28 @@
 				3F1F407A19F5C3B80098ED03 /* myLastMeProject */,
 				3F1F409419F5C3B90098ED03 /* myLastMeProjectTests */,
 				3F1F407919F5C3B80098ED03 /* Products */,
+				3FC347D11A2E66B8006056CD /* full_13622_front.jpg */,
+				3FC347CF1A2E65D1006056CD /* full_21621_front.jpg */,
+				3FC347CD1A2E650D006056CD /* warrior-lacrosse-head-revo-3-royal_3.jpg */,
+				3FC347CB1A2E6470006056CD /* maverik-optik-u-lacrosse-head-18.gif.jpeg */,
+				3FC347C91A2E6403006056CD /* Unknown.jpeg */,
+				3FCC23B819F9ADA900682302 /* stx-k18-lacrosse-head-white-front_2.png */,
+				3FCC23BA19F9ADBB00682302 /* warrior-rabil-x-lacrosse-head-1.jpg */,
+				3FCC23BC19F9AF2600682302 /* LHU-WAR-EX3UNX-2.png */,
+				3F2CD6FD1A0C3C9A00936324 /* LSF-NIKE-LAKOTA-BKYELLOW-2.jpg */,
+				3F2CD6FF1A0C3CB400936324 /* maxresdefault.jpg */,
+				3F2CD7011A0C45D100936324 /* url.jpg */,
+				3F2CD7031A0C467E00936324 /* 1212.gif */,
+				3F2CD7051A0C470E00936324 /* big_23340_front.jpg */,
+				3F2CD7071A0C472F00936324 /* big_23282_front.jpg */,
+				3F2CD7091A0C47B500936324 /* stx15_stallion300_shaft_main.jpg */,
+				3F2CD70B1A0C481300936324 /* images.jpg */,
+				3F2CD70D1A0C485E00936324 /* GreenFront-500x500.jpg */,
+				3F2CD70F1A0C48DC00936324 /* pDSP1-10878513p275w.jpg */,
+				3F2CD7131A0C499400936324 /* big_26797_front.jpg */,
+				3F2CD7151A0C49D500936324 /* usa_handle_hammer500-2.png */,
+				3F2CD7171A0C4A0400936324 /* header.jpg */,
+				3F2CD7191A0C4A7B00936324 /* nike-legacy-unstrung-lacrosse-head-1.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -82,10 +160,18 @@
 			isa = PBXGroup;
 			children = (
 				3F1F407F19F5C3B80098ED03 /* AppDelegate.h */,
+				3F9319681A11894800DFC8F6 /* WebVC.h */,
+				3F9319691A11894800DFC8F6 /* WebVC.m */,
 				3F1F408019F5C3B80098ED03 /* AppDelegate.m */,
 				3F1F408219F5C3B80098ED03 /* ViewController.h */,
 				3F1F408319F5C3B80098ED03 /* ViewController.m */,
 				3F1F408519F5C3B80098ED03 /* Main.storyboard */,
+				3FCC23BE19F9B16100682302 /* STXViewController.h */,
+				3FCC23BF19F9B16100682302 /* STXViewController.m */,
+				B02859FF1A006F8E0020D6F6 /* DetailViewController.h */,
+				B0285A001A006F8E0020D6F6 /* DetailViewController.m */,
+				3FCC23C319F9B2CE00682302 /* STX.h */,
+				3FCC23C419F9B2CE00682302 /* STX.m */,
 				3F1F408819F5C3B80098ED03 /* Images.xcassets */,
 				3F1F408A19F5C3B80098ED03 /* LaunchScreen.xib */,
 				3F1F407B19F5C3B80098ED03 /* Supporting Files */,
@@ -199,9 +285,31 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FC347CC1A2E6470006056CD /* maverik-optik-u-lacrosse-head-18.gif.jpeg in Resources */,
+				3F2CD7081A0C472F00936324 /* big_23282_front.jpg in Resources */,
+				3F2CD7141A0C499400936324 /* big_26797_front.jpg in Resources */,
+				3F2CD7101A0C48DC00936324 /* pDSP1-10878513p275w.jpg in Resources */,
+				3F2CD7181A0C4A0400936324 /* header.jpg in Resources */,
+				3F2CD7021A0C45D100936324 /* url.jpg in Resources */,
+				3FC347CA1A2E6403006056CD /* Unknown.jpeg in Resources */,
+				3FCC23BD19F9AF2600682302 /* LHU-WAR-EX3UNX-2.png in Resources */,
 				3F1F408719F5C3B80098ED03 /* Main.storyboard in Resources */,
 				3F1F408C19F5C3B80098ED03 /* LaunchScreen.xib in Resources */,
+				3F2CD70E1A0C485E00936324 /* GreenFront-500x500.jpg in Resources */,
+				3F2CD71A1A0C4A7B00936324 /* nike-legacy-unstrung-lacrosse-head-1.jpg in Resources */,
+				3FC347D21A2E66B8006056CD /* full_13622_front.jpg in Resources */,
+				3F2CD7061A0C470E00936324 /* big_23340_front.jpg in Resources */,
+				3F2CD70A1A0C47B500936324 /* stx15_stallion300_shaft_main.jpg in Resources */,
 				3F1F408919F5C3B80098ED03 /* Images.xcassets in Resources */,
+				3FCC23BB19F9ADBB00682302 /* warrior-rabil-x-lacrosse-head-1.jpg in Resources */,
+				3F2CD7161A0C49D500936324 /* usa_handle_hammer500-2.png in Resources */,
+				3FC347D01A2E65D1006056CD /* full_21621_front.jpg in Resources */,
+				3FCC23B919F9ADA900682302 /* stx-k18-lacrosse-head-white-front_2.png in Resources */,
+				3F2CD7001A0C3CB400936324 /* maxresdefault.jpg in Resources */,
+				3F2CD70C1A0C481300936324 /* images.jpg in Resources */,
+				3FC347CE1A2E650D006056CD /* warrior-lacrosse-head-revo-3-royal_3.jpg in Resources */,
+				3F2CD7041A0C467E00936324 /* 1212.gif in Resources */,
+				3F2CD6FE1A0C3C9A00936324 /* LSF-NIKE-LAKOTA-BKYELLOW-2.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -219,9 +327,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3FCC23C119F9B16100682302 /* STXViewController.m in Sources */,
 				3F1F408419F5C3B80098ED03 /* ViewController.m in Sources */,
 				3F1F408119F5C3B80098ED03 /* AppDelegate.m in Sources */,
+				3F93196A1A11894800DFC8F6 /* WebVC.m in Sources */,
 				3F1F407E19F5C3B80098ED03 /* main.m in Sources */,
+				3FCC23C519F9B2CE00682302 /* STX.m in Sources */,
+				B0285A011A006F8E0020D6F6 /* DetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -412,6 +524,7 @@
 				3F1F409D19F5C3B90098ED03 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3F1F409E19F5C3B90098ED03 /* Build configuration list for PBXNativeTarget "myLastMeProjectTests" */ = {
 			isa = XCConfigurationList;
@@ -420,6 +533,7 @@
 				3F1F40A019F5C3B90098ED03 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
