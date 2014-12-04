@@ -239,11 +239,11 @@
             </objects>
             <point key="canvasLocation" x="2250" y="-124"/>
         </scene>
-        <!--STX-->
+        <!--LACROSSE HEADS/SHAFTS-->
         <scene sceneID="PHj-f2-wR0">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="LQE-Oi-8am" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="STX" image="stx-k18-lacrosse-head-white-front_2.png" id="pbI-Lg-cIg"/>
+                    <tabBarItem key="tabBarItem" title="LACROSSE HEADS/SHAFTS" image="stx-k18-lacrosse-head-white-front_2.png" id="pbI-Lg-cIg"/>
                     <toolbarItems/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" id="3O8-CY-9xo">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
