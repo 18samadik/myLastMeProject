@@ -44,9 +44,6 @@
                         <sections/>
                     </tableView>
                     <tabBarItem key="tabBarItem" title="WARRIOR" image="LHU-WAR-EX3UNX-2.png" id="6NU-2n-Fpq"/>
-                    <connections>
-                        <segue destination="h50-q2-Bjy" kind="push" id="eHd-CL-pQh"/>
-                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="eeE-Qm-Q93" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
@@ -117,50 +114,6 @@
             </objects>
             <point key="canvasLocation" x="1372" y="-124"/>
         </scene>
-        <!--Root View Controller-->
-        <scene sceneID="zra-Le-aQY">
-            <objects>
-                <tableViewController id="oul-Re-22d" sceneMemberID="viewController">
-                    <tableView key="view" clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="Mxr-Gq-O9U">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="519"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
-                        <prototypes>
-                            <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="iA5-XO-Sfn">
-                                <autoresizingMask key="autoresizingMask"/>
-                                <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="iA5-XO-Sfn" id="eX6-8b-dqh">
-                                    <autoresizingMask key="autoresizingMask"/>
-                                </tableViewCellContentView>
-                            </tableViewCell>
-                        </prototypes>
-                        <connections>
-                            <outlet property="dataSource" destination="oul-Re-22d" id="djg-Xf-SP1"/>
-                            <outlet property="delegate" destination="oul-Re-22d" id="oYd-sL-ipT"/>
-                        </connections>
-                    </tableView>
-                    <navigationItem key="navigationItem" title="Root View Controller" id="Svc-Jn-wx5"/>
-                </tableViewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="pvN-G3-ECE" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="1766" y="564"/>
-        </scene>
-        <!--Navigation Controller-->
-        <scene sceneID="WaZ-hs-IWK">
-            <objects>
-                <navigationController id="h50-q2-Bjy" sceneMemberID="viewController">
-                    <navigationItem key="navigationItem" id="wgI-e9-34d"/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="Xw8-jk-1wN">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
-                        <autoresizingMask key="autoresizingMask"/>
-                    </navigationBar>
-                    <connections>
-                        <segue destination="oul-Re-22d" kind="relationship" relationship="rootViewController" id="YyS-xp-uaj"/>
-                    </connections>
-                </navigationController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="Ze1-gs-Xum" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="1239" y="507"/>
-        </scene>
         <!--Detail View Controller-->
         <scene sceneID="wOD-Xu-8Lz">
             <objects>
@@ -180,6 +133,10 @@
                                 <rect key="frame" x="35" y="164" width="250" height="190"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.39345406620000001" green="0.99576319869999996" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <gestureRecognizers/>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="vHQ-O9-nr5" appends="YES" id="ZWx-KG-Iuk"/>
+                                </connections>
                             </imageView>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Brand" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="h1E-oL-5aI">
                                 <rect key="frame" x="45" y="85" width="231" height="21"/>
@@ -201,6 +158,10 @@
                             </button>
                         </subviews>
                         <color key="backgroundColor" red="0.52237615240000002" green="0.060870643840000002" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                        <gestureRecognizers/>
+                        <connections>
+                            <outletCollection property="gestureRecognizers" destination="oUY-MV-pb2" appends="YES" id="0if-8T-PVa"/>
+                        </connections>
                     </view>
                     <navigationItem key="navigationItem" id="Bqd-4x-VRQ"/>
                     <simulatedScreenMetrics key="simulatedDestinationMetrics"/>
@@ -211,6 +172,8 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="2fZ-ba-WLS" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <pinchGestureRecognizer id="oUY-MV-pb2"/>
+                <pinchGestureRecognizer id="vHQ-O9-nr5"/>
             </objects>
             <point key="canvasLocation" x="1782" y="-129"/>
         </scene>
@@ -226,6 +189,10 @@
                                 <rect key="frame" x="-4" y="0.0" width="329" height="488"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <gestureRecognizers/>
+                                <connections>
+                                    <outletCollection property="gestureRecognizers" destination="Wld-ml-NMK" appends="YES" id="6n3-dK-uWy"/>
+                                </connections>
                             </webView>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
@@ -236,6 +203,7 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="Vzt-H4-dcH" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <pinchGestureRecognizer id="Wld-ml-NMK"/>
             </objects>
             <point key="canvasLocation" x="2250" y="-124"/>
         </scene>
